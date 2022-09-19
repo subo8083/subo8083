@@ -1,3 +1,4 @@
+<img src="https://github.com/subo8083/subo8083/blob/main/gitBanner.gif" style="width:1000px">
 <h1 align="center">Hi 👋, I'm Subojit Mukherjee</h1>
 <h3 align="center">A passionate full stack developer having specialization in frontend and backend development.</h3>
 
