@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **major backend projects related to Spring.**
 
-- 👨‍💻 All of my projects are available at [subo8083.github.io](subo8083.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio](https://subo8083.github.io)
 
 - 💬 Ask me about **Frontend like HTML, CSS, JavaScript, Java.**
 
 - 📫 How to reach me **subojit.m2710@gmail.com**
 
-- You can check my Resume at [subo8083.github.io](subo8083.github.io)
+- You can check my Resume from my [portfolio](https://subo8083.github.io)
 
 - ⚡ Fun fact **I think am adorable and kind loving person.😊..**
 
