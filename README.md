@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subo8083&show_icons=true&locale=en&layout=compact&theme=monokai" alt="subo8083" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subo8083&show_icons=true&locale=en" alt="subo8083" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subo8083&show_icons=true&locale=en&theme=monokai" alt="subo8083" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subo8083&" alt="subo8083" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subo8083&&theme=monokai" alt="subo8083" /></p>
