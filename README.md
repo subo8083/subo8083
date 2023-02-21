@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subo8083&label=Profile%20views&color=0e75b6&style=flat" alt="subo8083" /> </p>
 
-- 🔭 I’m currently working on **RESTful api**
+- 🔭 I’m currently working on **Spring Security**
 
 - 🌱 I’m currently learning **Java backend with Spring frameworks.**
 
